@@ -4,7 +4,7 @@
 
 
 - 👋 Hi, I’m Ray.
-- 👨‍💻 working on all things cool at [@DTN](https://www.dtn.com/)
+- 👨‍💻 working on all things cool at [DTN](https://www.dtn.com/)
 - 🕊️ twitter: [@RayBell_DTN](https://twitter.com/RayBell_DTN/)
 
 
